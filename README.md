@@ -24,7 +24,7 @@ it is known that A is uniquely determined by x. The most commonly used algorithm
 
 ## Results
 <p align ="center">
-<img src="https://github.com/Vaibhav-Sachdeva/Vaibhav-Sachdeva/blob/main/Images/digi_1.PNG" alt="centered image" height="598" width="398">
+<img src="https://github.com/Vaibhav-Sachdeva/Vaibhav-Sachdeva/blob/main/Images/digi_1.PNG" alt="centered image"  width="500">
 
 K-medoids seems to be a better model here than K-means, since it gives more consistent result and is more robust to noise and outliers. Although, there are few cases in which K-means performs better than K-medoids, but consistency wise K-medoids is much better.
 
