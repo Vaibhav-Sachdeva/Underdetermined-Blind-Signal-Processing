@@ -13,4 +13,11 @@ The goal here is to identify the mixing matrix A by Blind Mixing model Recovery 
                                           s = n-dimensional source random vector with component density p(s)
                                           A = mixing matrix having independent columns each of unit norm
 </p>
-More sources are to be extracted from less observed mixtures in Underdetermined Blind Source Separation (n < m) without knowing both the sources and the mixing matrix. Blind Source Separation (BSS) is predominantly based on independent source assumptions.
+More sources are to be extracted from less observed mixtures in Underdetermined Blind Source Separation (n < m) without knowing both the sources and the mixing matrix. Blind Source Separation (BSS) is predominantly based on independent source assumptions.Assuming that statistically independent sources have at most one Gaussian variable,
+it is known that A is uniquely determined by x. The most commonly used algorithms are based on sparse sources that are correctly identified by a clustering of k-means. But, meanbased clustering can only classify the appropriate A if the data density approaches a delta 1 distribution.
+
+## Methods 
+- Geometric Matrix Recovery
+- Blind Source Recovery (BSR)
+- K-Means
+- K-medoids
