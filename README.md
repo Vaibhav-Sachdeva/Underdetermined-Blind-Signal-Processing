@@ -4,6 +4,8 @@ source signals or the mixing process.
 
 ## Problem Statement 
 The goal here is to identify the mixing matrix A by Blind Mixing model Recovery (BMMR) and the n-dimensional source random vectors by Blind Source Recovery (BSR) from an observed mixture random vector x where x is:
+<p>
+  
                                                                                  x = As
                                                               where,
                                                               x = m-dimensional mixture random vector
